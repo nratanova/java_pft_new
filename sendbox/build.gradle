@@ -1,0 +1,3 @@
+apply plugin: 'java' //плагин для компиляции
+apply plugin: 'application' //плагин для запуска
+mainClassName = "MyFirstProgram" //указывает что нужно запустить
